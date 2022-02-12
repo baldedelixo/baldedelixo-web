@@ -62,4 +62,4 @@ make build-development
 make start-development
 ```
 
-For more information, consult the [Instructions.md]("./Instructions.md") file.
+For more information, consult the [Instructions.md]("Instructions.md") file.
